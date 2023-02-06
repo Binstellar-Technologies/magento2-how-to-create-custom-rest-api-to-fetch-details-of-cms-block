@@ -43,8 +43,10 @@ php bin/magento cache:flush
 &nbsp;
 &nbsp;
 
+<kbd>
 
 ![image1](https://user-images.githubusercontent.com/123800304/216293254-b4417c0d-d6b1-4ed6-8e04-c3fa690dd770.png)
 
+</kbd>
 
 ## Note : We have tested this option in Magento ver. 2.4.5-p1
